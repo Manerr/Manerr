@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* **I'm Paul, working on programming soups ;) .
+#I'm Paul, working on programming soups ;) .
 
 
 - 🔭 I’m currently working on Python projects (some minor ones)
