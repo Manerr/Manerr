@@ -5,7 +5,8 @@ I'm Paul, working on programming soups ;) .
 ---
 
 - 🔭 I’m currently working on Python projects (some minor ones)
-- 🌱 I’m currently learning advanced CSS to improve my designs..
+PyNote is my latest project, one minimalistic text editor : []( https://github.com/Paul-Thorel/PyNote "source code") 
+-🌱 I’m currently learning advanced CSS to improve my designs..
 - 💬 Ask me about your projects, I'll try helping you!
 - 📫 How to reach me: Check YouTube : TutoDev ...
 
