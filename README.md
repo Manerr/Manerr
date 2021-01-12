@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Paul, working on programming soups ;) .
+I'm Paul, working on programming soups (not markups ;) ).
 
 ---
 
-- 🔭 I’m currently working on Python projects (some minor ones)
+- 🔭 I’m currently working on Python projects like one assembler interpreter and guis (some minor ones)
 PyNote is my latest project, one minimalistic text editor : [Source code]( https://github.com/Paul-Thorel/PyNote ) 
 - 🌱 I’m currently learning advanced CSS to improve my designs..
 - 💬 Ask me about your projects, I'll try helping you!
