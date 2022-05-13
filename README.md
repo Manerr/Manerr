@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm Paul, working on programming soups (not markups ;) ).
+-> I'm an enthusiasmic IT "scientist", loving making simple programming languages interpreters (I'll post my own language soon ) 
 
 ---
 
