@@ -1,11 +1,11 @@
 # Hi there 👋
 
 I'm Paul, working on programming soups (not markups ;) ).
--> I'm an enthusiasmic IT "scientist", loving making simple programming languages interpreters (I'll post my own language soon ) 
+-> I'm an enthusiasmic music maker, IT "hobbyist", loving making simple programming languages interpreters (I'll post my own language soon ) 
 
 ---
 
-
+- 🎶 Music maker : https://youtube.com/@Manerr
 - 🔭 I’m currently working on Python projects like one assembler interpreter and guis (some minor ones)
 - 🌱 I’m currently learning advanced CSS to improve my designs...
 - 💬 Ask me about your projects, I'll try helping you!
