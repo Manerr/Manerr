@@ -1,20 +1,20 @@
 # Hi there 👋
 
-I'm Paul, French IT Student, working on programming soups (not markups ;) ).
--> I'm an enthusiasmic music maker, IT "hobbyist", loving making simple programming languages interpreters (I'll post my own language soon ) 
+I'm Paul, a.k.a Manerr, a french IT Student.
+
+-> I'm an also enthusiasmic music maker, IT "hobbyist", loving making simple programming languages interpreters (I'll post my own language soon ) 
 
 ---
 
+- 🔭 I’m currently working on a lot of different projects: web apps, python programs, .... but my Github is sadly almost empty....
 - 🎶 Music maker : https://youtube.com/@Manerr -> Do you like synthwave?
-- 🔭 I’m currently working on Python projects like one assembler interpreter and guis (some minor ones)
-- 🌱 I’m currently learning advanced CSS to improve my designs... Front-end Dev since some years now :)
+- 🌱 Trying to finally learn Csharp fully...
 - 💬 Ask me about your projects, I'll try helping you!
 - 📫 How to reach me: Check YouTube : Manerr ... or Twitter 🐦: @PaulT64455856
 
 
 - ⚡ Fun fact: I've made one full clean website, but never uploaded because I'm a procrastinater. 
-- EDIT : it's online :p
-(Please don't go on the old !!!)
+- EDIT : it's online :p but almost empty...
 
 
 ---
