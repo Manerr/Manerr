@@ -1,15 +1,35 @@
-# Hi there 👋
 
-I'm Paul, a.k.a Manerr, a french IT Student.
+### Hi there 👋
 
-Full-stack dev 
+I'm **Paul** (a.k.a **Manerr**) — a french IT Bachelor and junior full-stack developer 🚀  
 
-- worked on Wordpress | Symfony - Used C , C# , Python , Javascript, SQL, and even some ASM a while ago 😅
-- Made programs for and on computers , calculators and even game handheld like the nintendo Game Boy from 1989.
+<br/>
+<br/>
 
-- To be short: [manerr.github.io](https://manerr.github.io) or [linkedin](https://www.linkedin.com/in/paul-thorel-5632492a4/)
+### 🔧 Tech stack & Tools
 
-- My codepen (where I share some code too -> especially simple designs) : [https://codepen.io/manerr](https://codepen.io/manerr)  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,js,html,css,symfony,mysql,git&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,linux,ableton&theme=light"/>
+</p>
 
-- Making music (youtube.com/@manerr) and reading sci-fi books while not being coding 🔎 - and maybe making competitive CS2 matches too 🫡.
 
+
+### 💻 What I’ve Worked On
+- Web development with **WordPress** & **Symfony**  
+- Programming in **C, C#, Python, JS, SQL**, and even some **ASM** back in the day 😅  
+- Building programs for **computers, calculators**, and even **retro consoles** like the **Nintendo Game Boy (1989)** 🎮  
+
+
+
+### 🌍 Find Me Online
+[![Portfolio](https://img.shields.io/badge/Website-manerr.github.io-4285F4?style=plastic&logo=google-chrome&logoColor=white)](https://manerr.github.io) [![CodePen](https://img.shields.io/badge/CodePen-manerr-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/manerr) [![YouTube](https://img.shields.io/badge/YouTube-@manerr-FF0000?style=plastic&logo=youtube&logoColor=white)](https://youtube.com/@manerr)  
+
+
+### 🎵 What I do outside of programming
+🎶 Making **music** — 📚 Reading **sci-fi books** — 🎮 Playing **competitive CS2** 🫡  
+
+---
+
+✨ *Always building, learning, and creating things (at least trying).*  
